@@ -17,4 +17,4 @@
 
 ---
 
-⭐️ From [samarasam24](https://github.com/yourusername)
+⭐️ From [samarasam24](https://github.com/samarasam24)
