@@ -6,6 +6,7 @@
 - 🎓 I graduated with a degree in Bachelor of Computer Application from Prist University.
 - 💼 Currently working at Ebrain Technologies as a FrontEnd Developer.
 -  🌱 I’m currently learning Redux Saga.
+- ![Debugging Icon](https://example.com/path/to/debugging-icon.png) I always eager to learn new Skills And also good in debuging.
 
 ## 🛠 Skills
 
