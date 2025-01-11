@@ -3,10 +3,11 @@
 
 ## 🚀 About Me
 
-- 🎓 I graduated with a degree in Bachelor of Computer Application from Prist University.
-- 💼 Currently working at Ebrain Technologies as a FrontEnd Developer.
--  🌱 I’m currently learning ?!
--  👾 I always eager to learn new Skills 
+-  🎓 Holding a degree in Bachelor of Computer Application(BCA).
+-  💼 Soon will be updated.
+-  🌱 On a journey to learn and refine my skills in Linux.
+-  👾 I always eager to learn new Skills.
+-  ⚡ Want to get good at something? Keep asking more questions about it.
 
 ## 🛠 Skills
 
